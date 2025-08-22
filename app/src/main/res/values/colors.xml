@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_black">#000000</color>
+    <!--    <color name="md_theme_primary">#4285F4</color>-->
+    <!--    <color name="md_theme_onPrimary">#FFFFFF</color>-->
+
+    <!--    <color name="md_theme_background">#F5F8FA</color>-->
+    <!--    <color name="md_theme_surface">#FFFFFF</color>-->
+
+    <!--    <color name="md_theme_onSurface">#212121</color>-->
+    <!--    <color name="md_theme_onSurfaceVariant">#616161</color>-->
+
+    <color name="md_theme_input_background">#E8EFF2</color>
+
+    <!--    <color name="md_theme_error">#D32F2F</color>-->
+    <!--    <color name="md_theme_onError">#FFFFFF</color>-->
+
+    <!--    <color name="md_theme_success">#4CAF50</color>-->
+    <color name="md_theme_warning">#FF9800</color>
+    <color name="blue_600">#1C64F2</color>>
+
+    <!-- Material Design Theme Colors -->
+    <color name="white">#ffffff</color>>
+    <color name="colorSuccess">#0E9F6E</color>>
+    <color name="md_theme_primary">#6366f1</color>
+    <color name="md_theme_onPrimary">#ffffff</color>
+    <color name="md_theme_primaryContainer">#e0e7ff</color>
+    <color name="md_theme_onPrimaryContainer">#1e1b16</color>
+    <color name="md_theme_outline">#79747E</color>
+
+    <color name="md_theme_secondary">#f59e0b</color>
+    <color name="md_theme_onSecondary">#ffffff</color>
+    <color name="md_theme_secondaryContainer">#fef3c7</color>
+    <color name="md_theme_onSecondaryContainer">#1f2937</color>
+
+    <color name="md_theme_surface">#ffffff</color>
+    <color name="md_theme_onSurface">#1f2937</color>
+    <color name="md_theme_surfaceVariant">#f9fafb</color>
+    <color name="md_theme_onSurfaceVariant">#6b7280</color>
+
+    <color name="md_theme_background">#f9fafb</color>
+    <color name="md_theme_onBackground">#1f2937</color>
+
+    <color name="md_theme_error">#ef4444</color>
+    <color name="md_theme_onError">#ffffff</color>
+
+    <color name="md_theme_success">#10b981</color>
+    <color name="md_theme_onSuccess">#ffffff</color>
+
+    <!-- Alpha Colors -->
+    <color name="white_alpha_20">#33ffffff</color>
+    <color name="white_alpha_80">#ccffffff</color>
+    <color name="white_alpha_90">#e6ffffff</color>
+    <color name="primary_alpha_10">#1a6366f1</color>
+
+    <!-- Text Input Colors -->
+    <color name="text_input_stroke_color">#e5e7eb</color>
+    <color name="text_input_stroke_focused">#6366f1</color>
+
+    <!-- Chip Colors -->
+    <!-- Blue Chips (JNE) -->
+    <color name="blue_chip_bg">#eff6ff</color>
+    <color name="blue_chip_text">#2563eb</color>
+    <color name="blue_chip_stroke">#dbeafe</color>
+
+    <!-- Green Chips (J&T) -->
+    <color name="green_chip_bg">#f0fdf4</color>
+    <color name="green_chip_text">#16a34a</color>
+    <color name="green_chip_stroke">#dcfce7</color>
+
+    <!-- Purple Chips (SiCepat) -->
+    <color name="purple_chip_bg">#faf5ff</color>
+    <color name="purple_chip_text">#9333ea</color>
+    <color name="purple_chip_stroke">#e9d5ff</color>
+
+    <!-- Orange Chips (POS) -->
+    <color name="orange_chip_bg">#fff7ed</color>
+    <color name="orange_chip_text">#ea580c</color>
+    <color name="orange_chip_stroke">#fed7aa</color>
+
+    <!-- Red Chips (TIKI) -->
+    <color name="red_chip_bg">#fef2f2</color>
+    <color name="red_chip_text">#dc2626</color>
+    <color name="red_chip_stroke">#fecaca</color>
+
+    <!-- Teal Chips (AnterAja) -->
+    <color name="teal_chip_bg">#e0f7fa</color>
+    <color name="teal_chip_text">#0097a7</color>
+    <color name="teal_chip_stroke">#b2ebf2</color>
+
+    <!-- Indigo Chips (Ninja) -->
+    <color name="indigo_chip_bg">#e8eaf6</color>
+    <color name="indigo_chip_text">#3f51b5</color>
+    <color name="indigo_chip_stroke">#c5cae9</color>
+
+    <!-- Brown Chips (RPX) -->
+    <color name="brown_chip_bg">#efebe9</color>
+    <color name="brown_chip_text">#795548</color>
+    <color name="brown_chip_stroke">#d7ccc8</color>
+
+    <!-- Tips Card Colors -->
+    <color name="blue_tips_bg">#f0f9ff</color>
+    <color name="blue_tips_stroke">#bae6fd</color>
+    <color name="blue_tips_title">#0c4a6e</color>
+    <color name="blue_tips_text">#0369a1</color>
+    <color name="blue_tips_icon_bg">#dbeafe</color>
+    <color name="blue_tips_icon">#2563eb</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_selected">#6366f1</color>
+    <color name="bottom_nav_unselected">#9ca3af</color>
+
+
+    <!-- Riwayat -->
+    <!-- Primary Colors -->
+    <color name="purple_primary">#8B5CF6</color>
+    <color name="purple_primary_dark">#7C3AED</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#F9FAFB</color>
+    <color name="background_white">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <!-- Status Colors -->
+    <color name="green_light">#DCFCE7</color>
+    <color name="green_dark">#16A34A</color>
+    <color name="blue_light">#DBEAFE</color>
+    <color name="blue_dark">#2563EB</color>
+    <color name="purple_light">#F3E8FF</color>
+    <color name="purple_dark">#9333EA</color>
+    <color name="orange_light">#FED7AA</color>
+    <color name="orange_dark">#EA580C</color>
+    <color name="red_light">#FEE2E2</color>
+    <color name="red_dark">#DC2626</color>
+    <color name="cyan_light">#E0F7FA</color>
+    <color name="cyan_dark">#0891B2</color>
+    <color name="indigo_light">#E0E7FF</color>
+    <color name="indigo_dark">#4338CA</color>
+    <color name="brown_light">#EFEBE9</color>
+    <color name="brown_dark">#8D6E63</color>
+    <color name="md_theme_info">#1976D2</color>
+
+    <!-- Gray Colors -->
+    <color name="gray_light">#F3F4F6</color>
+    <color name="gray_medium">#9CA3AF</color>
+    <color name="gray_dark">#374151</color>
+
+    <!-- Yellow Colors -->
+    <color name="yellow_light">#FEF3C7</color>
+    <color name="yellow_dark">#D97706</color>
+
+    <!-- Profile -->
+    <!-- Background Colors -->
+    <color name="section_header_bg">#F8FAFC</color>
+
+    <!-- Divider -->
+    <color name="divider_color">#E5E7EB</color>
+
+    <!-- Success/Error Colors -->
+    <color name="success_color">#10B981</color>
+    <color name="error_color">#EF4444</color>
+
+    <!-- Alpha Colors -->
+    <color name="success_alpha_10">#E8F5E8</color>
+    <color name="warning_alpha_10">#FFF3E0</color>
+    <color name="info_alpha_10">#E3F2FD</color>
+    <color name="error_alpha_10">#FFEBEE</color>
+
+
+    <!-- Switch -->
+    <!-- Switch Colors - Add to colors.xml -->
+    <color name="switch_track_checked">@color/md_theme_primary</color>
+    <color name="switch_track_unchecked">#E0E0E0</color>
+    <color name="switch_thumb_checked">@color/white</color>
+    <color name="switch_thumb_unchecked">@color/white</color>
+    <color name="gray_300">#E0E0E0</color>
+
+    <!-- Alternative color definitions if using Material 3 -->
+    <color name="switch_track_checked_alpha">#4D8B5CF6</color> <!-- 30% alpha of primary -->
+    <color name="switch_track_unchecked_alpha">#1F000000</color> <!-- 12% alpha of black -->
+</resources>
