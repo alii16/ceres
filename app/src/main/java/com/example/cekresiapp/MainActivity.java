@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
     private Chip chipJNE, chipJNT, chipSiCepat, chipPOS, chipAnterAja, chipTIKI, chipNinja, chipSPX;
 
     // API Key (from binderbyte.com)
-    private final String API_KEY = "a0fead842849309175d20fad8b27524f1c4935c34bb11fceeeec64ac4a4de1c4";
+    private final String API_KEY = "YOUR_API_KEY_HERE";
 
     // HTTP client
     private final OkHttpClient client = new OkHttpClient();
