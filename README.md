@@ -11,13 +11,23 @@ CeRes adalah aplikasi pelacakan paket multi-kurir Indonesia yang mendukung 8+ ku
 
 ## 📱 Screenshots
 
-| Home Screen | Tracking Result | Timeline View | History |
-|-------------|----------------|---------------|---------|
-| ![Home]![1 tes](https://github.com/user-attachments/assets/36db3097-c88b-4f4e-bb2f-41b83571bcd9)
- | ![Result]![2 tes](https://github.com/user-attachments/assets/4f9b5f83-b3e9-47b5-80d3-2183222fc88f)
- | ![Timeline]![3 tes](https://github.com/user-attachments/assets/0b4ebcca-cb59-4078-8c49-d01607eb200a)
- | ![History]![4 tes](https://github.com/user-attachments/assets/934281a5-1584-470a-b370-b75d4510e246)
- |
+<div align="center">
+🏠 Home Screen
+<img src="https://github.com/user-attachments/assets/36db3097-c88b-4f4e-bb2f-41b83571bcd9" width="250" alt="Home Screen">
+Interface utama untuk input nomor resi dan pilih kurir
+
+📊 Tracking Result
+<img src="https://github.com/user-attachments/assets/4f9b5f83-b3e9-47b5-80d3-2183222fc88f" width="250" alt="Tracking Result">
+Tampilan hasil pelacakan dengan status paket dan informasi lengkap
+
+🕐 Timeline View
+<img src="https://github.com/user-attachments/assets/0b4ebcca-cb59-4078-8c49-d01607eb200a" width="250" alt="Timeline View">
+Riwayat perjalanan paket dalam format timeline yang mudah dipahami
+
+📝 History
+<img src="https://github.com/user-attachments/assets/934281a5-1584-470a-b370-b75d4510e246" width="250" alt="History">
+Daftar riwayat pelacakan paket sebelumnya
+</div>
 
 ## ✨ Fitur
 
